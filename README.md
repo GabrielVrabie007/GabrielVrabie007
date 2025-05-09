@@ -39,6 +39,11 @@ Also I am in open to new job,so do not miss the opportunity and contact me.
 ![Alembic](https://img.shields.io/badge/Alembic-Intermediate-3775A9?style=flat)
 ![Git](https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git)
 
+## 📈 GitHub Stats
+
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielVrabie007&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVrabie007&layout=compact&theme=radical)
+
 ## 📚 Projects
 
 ### 🛡️ Card Fraud Detection (Oct 2024 - Dec 2024)
@@ -61,10 +66,6 @@ I'm constantly expanding my knowledge in:
 - Cloud infrastructure for AI deployment(AWS)
 - Tools like Docker and Kubernetes
 
-## 📈 GitHub Stats
-
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielVrabie007&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVrabie007&layout=compact&theme=radical)
 
 ## 🎓 Education & Certifications
 
